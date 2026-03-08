@@ -1,8 +1,4 @@
----
-title: Miguel Victoria | Portafolio
----
-
-# 👋 Hola, soy Miguel Angel Victoria
+# Hola, soy Miguel Angel Victoria
 
 🎓 Estudiante de Ingenieria Informatica  
 💻 Interesado en desarrollo de software, bases de datos y soluciones tecnológicas.
@@ -11,7 +7,7 @@ Soy un estudiante apasionado por aprender nuevas tecnologías y construir proyec
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Actualmente estoy enfocado en:
 
